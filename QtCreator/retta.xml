@@ -7,6 +7,8 @@
 
      It was adapted for use by Qt Creator by Jan Kundrát and subsequently
      updated by Campbell Barton.
+	 
+	 And changed by Milot Shala to match one of the color schemes called Retta at http://eclipsecolorthemes.org/?view=theme&id=1004
 -->
 <style-scheme version="1.0" name="Retta">
   <style name="AddedLine" foreground="#00aa00"/>
