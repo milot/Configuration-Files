@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+     This color scheme is based on the vim Inkpot color scheme, originally
+     created by Ciaran McCreesh:
+
+     http://www.vim.org/scripts/script.php?script_id=1143
+
+     It was adapted for use by Qt Creator by Jan Kundrát and subsequently
+     updated by Campbell Barton.
+-->
+<style-scheme version="1.0" name="Retta">
+  <style name="AddedLine" foreground="#00aa00"/>
+  <style name="LocalVariable" foreground="#F8E1AA"/>
+  <style name="Comment" foreground="#83786E"/>
+  <style name="CurrentLine" foreground="#F8E1AA"/>
+  <style name="CurrentLineNumber" foreground="#ff8638" bold="true"/>
+  <style name="DiffFile" foreground="#8484f3"/>
+  <style name="DiffLocation" foreground="#0084ff"/>
+  <style name="DisabledCode" foreground="#a0a0a4" italic="true"/>
+  <style name="Doxygen.Comment" foreground="#737dd5"/>
+  <style name="Doxygen.Tag" foreground="#4e5ab3"/>
+  <style name="Field" foreground="#DE6546"/>
+  <style name="Function"/>
+  <style name="Namespace" foreground="#527D5D"/>
+  <style name="Keyword" foreground="#E79E3C"/>
+  <style name="Label" foreground="#e76000"/>
+  <style name="LineNumber" foreground="#C97138" background="#000000"/>
+  <style name="Link" foreground="#409090"/>
+  <style name="Local"/>
+  <style name="Function" foreground="#A4B0C0"/>
+  <style name="Number" foreground="#f0ad6d"/>
+  <style name="Occurrences" foreground="#000000" background="#616161"/>
+  <style name="Enum" foreground="#527D5D"/>
+  <style name="Occurrences.Rename" foreground="#000000" background="#ff6464"/>
+  <style name="Occurrences.Unused" foreground="#808000"/>
+  <style name="Operator" foreground="#cfbfad"/>
+  <style name="Parentheses" foreground="#ffff00"  background="#4e4e8f"/>
+  <style name="Preprocessor" foreground="#E79E3C"/>
+  <style name="RemovedLine" foreground="#ff0000"/>
+  <style name="SearchResult" foreground="#000000" background="#ffef0b"/>
+  <style name="SearchScope" foreground="#000000" background="#f8fafc"/>
+  <style name="Selection" foreground="#F8E1AA" background="#527D5D"/>
+  <style name="Static" foreground="#DE6546"/>
+  <style name="String" foreground="#D6C248"/>
+  <style name="Text" foreground="#F8E1AA" background="#000000"/>
+  <style name="Type" foreground="#DE6546"/>
+  <style name="VirtualMethod" foreground="#A4B0C0" italic="true"/>
+  <style name="VisualWhitespace" foreground="#646482"/>
+  <style name="QmlTypeId" foreground="#ff8bff"/>
+  <style name="Binding" foreground="#ff5555"/>
+  <style name="QmlLocalId" italic="true"/>
+  <style name="QmlRootObjectProperty" italic="true"/>
+  <style name="QmlScopeObjectProperty" italic="true"/>
+  <style name="QmlStateName" italic="true"/>
+  <style name="QmlExternalId" foreground="#aaaaff" italic="true"/>
+  <style name="QmlExternalObjectProperty" foreground="#aaaaff" italic="true"/>
+  <style name="JsScopeVar" foreground="#8888ff" italic="true"/>
+  <style name="JsImportVar" foreground="#8888ff" italic="true"/>
+  <style name="JsGlobalVar" foreground="#8888ff" italic="true"/>
+</style-scheme>
+
