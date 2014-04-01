@@ -3,13 +3,26 @@ Configuration Files
 
 A set of configuration files that I use.
 
-Albanian Keyboard Layout
+Tastiera në gjuhën Shqipe
 -------------------------
 ![Keyboard Layout](https://raw.githubusercontent.com/milot/Configuration-Files/master/Keyboard%20Layout/D1.png)
 
-__Currently in:__
+__Gjindet nën:__
 
 * Keyboard Layout
+
+__Instalimi:__
+
+Vetëm kopjo Albanian.bundle/ direktoriumin në /Library/Keyboard Layouts/ si përdorues i privilegjuar (root)
+
+Apo me komandat në vazhdim:
+
+`sudo su` -- e jepni fjalëkalimin
+
+Pastaj:
+
+`cp -r Albanian\ Keyboard.bundle /Library/Keyboard\ Layouts/`
+
 
 Qt Creator stuff
 ------------------------
