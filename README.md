@@ -5,7 +5,7 @@ A set of configuration files that I use.
 
 Albanian Keyboard Layout
 -------------------------
-![Keyboard Layout](https://github.com/milot/Configuration-Files/blob/master/Keyboard%20Layout/D1.png =760x)
+![Keyboard Layout](https://raw.githubusercontent.com/milot/Configuration-Files/master/Keyboard%20Layout/D1.png =760x)
 
 __Currently in:__
 
