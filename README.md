@@ -23,6 +23,8 @@ Pastaj:
 
 `cp -r Albanian\ Keyboard.bundle /Library/Keyboard\ Layouts/`
 
+**E portuar nga [http://plisi.al/softwer/tastiera-plisi-d](http://plisi.al/softwer/tastiera-plisi-d)**
+
 
 Qt Creator stuff
 ------------------------
